@@ -1,4 +1,4 @@
-# 💍 Vinicius & Ana Luiza — Landing Page de Casamento
+﻿# 💍 Vinicius & Ana Luiza — Landing Page de Casamento
 
 <div align="center">
 
@@ -131,3 +131,5 @@ Desenvolvido por **Vinicius Morais Araújo** para o dia mais especial de sua vid
 <div align="center">
   <sub>Feito com muito ❤️ para 19 de Setembro de 2026.</sub>
 </div>
+
+<!-- sync: repository update -->
